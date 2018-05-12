@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34531
     wikipedia: http://en.wikipedia.org/wiki/John_Bates_Clark
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31159#Essentials-of-Economic-TheoryAs-Applied-to-Modern-Problems-of-Industry-and-Public-Policy
 gutenberg_issued: '2010-02-02'
 gutenberg_type: Text
 identifiers:
