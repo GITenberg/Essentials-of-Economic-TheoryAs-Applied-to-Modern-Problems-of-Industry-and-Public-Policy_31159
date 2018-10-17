@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'HB'
 - !lcsh 'Economics'
+- GITenberg
 title: 'Essentials of Economic Theory
 
   As Applied to Modern Problems of Industry and Public Policy'
